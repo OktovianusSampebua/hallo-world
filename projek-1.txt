@@ -1,1 +1,2 @@
 Belajar memebuat web 
+Belajar frontend
