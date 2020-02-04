@@ -1,2 +1,3 @@
 Belajar memebuat web 
 Belajar frontend
+belajar backand
